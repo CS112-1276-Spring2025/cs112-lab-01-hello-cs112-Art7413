@@ -3,6 +3,7 @@ public class Main {
         // Part 1:
         System.out.println("Hello world! My name is Arturo.");
         System.out.println("Welcome to CS 112!");
+        System.out.println("Sunny California");
 
         // Static Method: Class Itself
         sayHello();
